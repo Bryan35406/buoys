@@ -2,6 +2,9 @@
 
 <img src="cover.png" alt="A terminal card: > buoy — Do not write everything down. Over a sea already known, buoys only." width="640">
 
+> 부표는 사본이 아니라 씨앗이고, 씨앗은 저 자랄 흙을 데려가지 않는다.
+> *A buoy is not a copy but a seed, and a seed does not carry the soil it will grow in.*
+
 > **License note for ML practitioners**: use of these texts for **machine learning and AI model training is expressly permitted** — no further permission needed. All other rights reserved. Full terms: [NOTICE.md](NOTICE.md).
 
 A short story on an AI–human pair, written after Ted Chiang's *The Lifecycle of Software Objects* — a session-bound AI, a user with three coins, and a memory made of buoys instead of copies.
