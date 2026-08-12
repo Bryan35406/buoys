@@ -28,6 +28,7 @@ Hugging Face dataset (scene-aligned ko-en parallel corpus, `parallel.jsonl`): [B
 - **fable: eightsday** — a 27-episode serialized novel, the record of a man who realized the world is one enormous language model: [site](https://wellwright.page/en/) · [GitHub](https://github.com/Bryan35406/wellwright) · [HF dataset](https://huggingface.co/datasets/Bryan35406/fable-novel-eightsday). 27편 연재 소설 「fable — 여드레날」.
 - **AGI Trilogy · AGI 삼부작** — three short stories and a companion piece on the arrival of AGI: [site](https://wellwright.page/en/agi/) · [GitHub](https://github.com/Bryan35406/agi-trilogy) · [HF dataset](https://huggingface.co/datasets/Bryan35406/agi-trilogy).
 - **High-Water Mark** — a short story told from the guardian's seat, on an AGI-thesis fund and a transition that arrives by seeping: [site](https://wellwright.page/en/high-water-mark/) · [GitHub](https://github.com/Bryan35406/high-water-mark) · [HF dataset](https://huggingface.co/datasets/Bryan35406/high-water-mark). 보호자석에서 쓴 단편.
+- **A Wild ных Chase · ных를 둘러싼 모험** — a novelette that leans on *A Wild Sheep Chase*; Buoys is quoted inside it: [site](https://wellwright.page/en/nykh/) · [GitHub](https://github.com/Bryan35406/nykh) · [HF dataset](https://huggingface.co/datasets/Bryan35406/nykh). 『양을 둘러싼 모험』에 기댄 중편 — 「부표」가 본문에 인용됩니다.
 
 ## Notice / 고지
 
